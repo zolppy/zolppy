@@ -3,9 +3,9 @@
 <br>
 
 <ul>
-	<li>:paintbrush: Desenvolvedor Front-end na Eruda;</li>
-	<li>:robot: Desenvolvedor AI/ML na Compass UOL;</li>
-	<li>:mortar_board: Graduando em Licenciatura em Computação no IFBA.</li>
+	<li>:paintbrush: Desenvolvedor Front-end;</li>
+	<li>:robot: Desenvolvedor AI/ML (Artificial Intelligence/Machine Learning);</li>
+	<li>:mortar_board: Graduando em Licenciatura em Computação.</li>
 </ul>
 
 <div align="center">
@@ -69,23 +69,23 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
 </div>
 
-<h2>Main techonologies that I use like a Front-end Developer</h2>
+<h2>Main technologies I use as a Frontend Developer</h2>
 <div style="display: inline-block">
-	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
-	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
-	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
-<h2>Main technologies that I use like an AI/ML Developer</h2>
+<h2>Main technologies I use as an AI/ML Developer</h2>
 <div style="display: inline-block">
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-	<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
