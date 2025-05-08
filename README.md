@@ -1,11 +1,11 @@
 <h1 align="center">:rocket: Gabriel Cavalcante :rocket:</h1>
-<p align="center">Desenvolvedor AI/ML e Desenvolvedor Front-end</p>
+<p align="center">AI/ML Developer & Frontend Developer</p>
 <br>
 
 <ul>
-	<li>:paintbrush: Desenvolvedor Front-end;</li>
-	<li>:robot: Desenvolvedor AI/ML (Artificial Intelligence/Machine Learning);</li>
-	<li>:mortar_board: Graduando em Licenciatura em Computação.</li>
+	<li>:paintbrush: Front-end Developer;</li>
+	<li>:robot: AI/ML Developer;</li>
+	<li>:mortar_board: Bachelor's Degree in Computer Science.</li>
 </ul>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2>Technologies that I know</h2>
+<h2>Technologies</h2>
 <div style="display: inline-block">
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -71,4 +71,4 @@
 
 <br>
 
-<p align="center">Viewers <img align="center" src="https://profile-counter.glitch.me/{zolppy}/count.svg" /></p>
+<p>Viewers <img src="https://profile-counter.glitch.me/{zolppy}/count.svg" /></p>
