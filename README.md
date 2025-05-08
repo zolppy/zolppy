@@ -71,4 +71,4 @@
 
 <br>
 
-<p>Viewers <img src="https://profile-counter.glitch.me/{zolppy}/count.svg" /></p>
+<p>Viewers <img align="center" src="https://profile-counter.glitch.me/{zolppy}/count.svg" /></p>
