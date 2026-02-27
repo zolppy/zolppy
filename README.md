@@ -29,3 +29,10 @@ Mid-Level Full Stack Software Engineer
 - 📫 How to reach me: zolppy.me@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: `Nothing`, at this moment
+
+---
+
+- :link: [Resume](https://resume-zol.vercel.app)
+- :link: [Portfolio](https://projects-zol.vercel.app)
+- :link: [Links](https://links-zol.vercel.app)
+- :link: [Linkedin](https://linkedin.com/in/zolppy)
