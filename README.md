@@ -26,6 +26,6 @@ Mid-Level Full Stack Software Engineer
 - 👯 I’m looking to collaborate on `Nothing`, at this moment
 - 🤔 I’m looking for help with `Nothing`, at this moment
 - 💬 Ask me about `Next.js`, `Tailwind CSS`, `FastAPI`, `Pydantic`, `SQLAlchemy`
-- 📫 How to reach me: ![Gmail](mailto:zolppy.me@gmail.com)
+- 📫 How to reach me: zolppy.me@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: `Nothing`, at this moment
