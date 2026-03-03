@@ -11,6 +11,8 @@ Mid-Level Full Stack Software Engineer
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-408AFF?style=for-the-badge&logo=zod&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-gray?style=for-the-badge)
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&locoColor=white)
+![React Tessting Library](https://img.shields.io/badge/react_testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ![Alembic](https://img.shields.io/badge/alembic-gray?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
