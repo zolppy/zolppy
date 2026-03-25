@@ -24,7 +24,7 @@ Mid-Level Full Stack Software Engineer
 ---
 
 - 🔭 I’m currently working on `Alugo` and `Eruda's projects`
-- 🌱 I’m currently learning `Zod` and `Zustand`
+- 🌱 I’m currently learning `Pytest`
 - 💬 Ask me about `Next.js`, `Tailwind CSS`, `FastAPI`, `Pydantic`, `SQLAlchemy`
 - 📫 How to reach me: zolppy.me@gmail.com
 - 😄 Pronouns: He/Him
