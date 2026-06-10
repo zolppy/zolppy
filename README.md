@@ -4,22 +4,28 @@ Mid-Level Full Stack Software Engineer
 
 ---
 
-![HeroUI](https://img.shields.io/badge/hero_ui-000000?style=for-the-badge&logo=heroui&logoColor=white)
-![Motion](https://img.shields.io/badge/motion-gray?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-408AFF?style=for-the-badge&logo=zod&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-gray?style=for-the-badge)
-![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&locoColor=white)
-![React Tessting Library](https://img.shields.io/badge/react_testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![HeroUI](https://img.shields.io/badge/hero_ui-black?style=for-the-badge)
+![Motion](https://img.shields.io/badge/motion-black?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge)
+![React.js](https://img.shields.io/badge/react.js-black?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge)
+![Zod](https://img.shields.io/badge/zod-black?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/zustand-black?style=for-the-badge)
+![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge)
+![React Tessting Library](https://img.shields.io/badge/react_testing_library-black?style=for-the-badge)
 
 ![Alembic](https://img.shields.io/badge/alembic-gray?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-gray?style=for-the-badge)
+![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge)
+![HTTPX](https://img.shields.io/badge/httpx-gray?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-gray?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/pydantic-gray?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-gray?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-gray?style=for-the-badge)
 
 ---
 
