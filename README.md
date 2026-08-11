@@ -29,7 +29,7 @@ Main Stack: NextJS + FastAPI
 
 ---
 
-- 🔭 I’m currently working on the `Company's projects`
+- 🔭 I’m currently working on the `Company's products`
 - 🌱 I’m currently learning `Things`
 - 💬 Ask me about `Next.js`, `Tailwind CSS`, `FastAPI`, `Pydantic`, `SQLAlchemy`, `Alembic`
 - 📫 How to reach me: zolppy.me@gmail.com
