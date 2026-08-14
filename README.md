@@ -38,6 +38,6 @@ Main Stack: NextJS + FastAPI
 ---
 
 - :link: [Resume](https://resume-zol.vercel.app)
-- :link: [Portfolio](https://projects-zol.vercel.app)
+- :link: [Portfolio](https://portfolio-zol.vercel.app)
 - :link: [Links](https://links-zol.vercel.app)
 - :link: [Linkedin](https://linkedin.com/in/zolppy)
