@@ -21,7 +21,7 @@ Main Stack: NextJS + FastAPI
 
 ![Alembic](https://img.shields.io/badge/alembic-white?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/fastapi-white?style=for-the-badge)
-![HTTPX](https://img.shields.io/badge/httpx-white?style=for-the-badge)
+![HTTPX2](https://img.shields.io/badge/httpx2-white?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-white?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/pydantic-white?style=for-the-badge)
