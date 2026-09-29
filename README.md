@@ -27,6 +27,7 @@ Main Stack: NextJS + FastAPI
 ![Pydantic](https://img.shields.io/badge/pydantic-white?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-white?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/websockets-white?style=for-the-badge)
 
 ![HTTPS](https://img.shields.io/badge/https-gray?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/websockets-gray?style=for-the-badge)
