@@ -31,6 +31,7 @@ Main Stack: NextJS + FastAPI
 
 ![HTTPS](https://img.shields.io/badge/https-gray?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/websockets-gray?style=for-the-badge)
+![Regex](https://img.shields.io/badge/regex-gray?style=for-the-badge)
 
 ---
 
